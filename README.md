@@ -16,9 +16,9 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-<!-- <p align="center">
-  <img width="40%" src="./assets/app.gif">
-</p> -->
+<p align="center">
+  <img width="20%" src="./assets/app.gif">
+</p>
 
 <div id='projeto'>
   <h2 style="color: #87CEFA;"> 💻 Projeto </h2>
