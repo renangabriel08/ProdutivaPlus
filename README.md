@@ -1,5 +1,4 @@
 <h1 align="center">
-    <!-- <img width="50%" src="./assets/pokemon.png"/> -->
     <p>ProdutivaPlus</p>
 </h1>
 
@@ -17,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img width="20%" src="./assets/app.gif">
+  <img width="30%" src="./assets/app.gif">
 </p>
 
 <div id='projeto'>
